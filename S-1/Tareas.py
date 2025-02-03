@@ -27,7 +27,7 @@ print("a) El interprete de Python.")
 print("b) El teclado.")
 print("c) El codigo fuente de Python.")
 print("d) Un documento de un procesador de texto.")
-respuesta_corrcta = "a"
+respuesta_correcta = "a"
 respuesta = input("Introduce la letra de tu respuest: ").lower()
 if respuesta == respuesta_correcta:
         print("¡Correcto!,")
