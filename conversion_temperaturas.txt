@@ -1,0 +1,12 @@
+
+Entrada: 10.0°C
+Celsius: 10.00°C
+Fahrenheit: 50.00°F
+Kelvin: 283.15K
+==============================
+
+Entrada: 80.0°K
+Celsius: -193.15°C
+Fahrenheit: -315.67°F
+Kelvin: 80.00K
+==============================
