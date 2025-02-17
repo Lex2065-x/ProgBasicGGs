@@ -6,4 +6,4 @@ print("mult = ", a * b)
 if b == 0: 
     print("div indefinida")
 else: 
-    print("div = ", a / b) 
+    print("div = ", a / b)
