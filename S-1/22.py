@@ -1,5 +1,4 @@
 import random
-
 def lanzar_dado():
     """Simula el lanzamiento de un dado de seis caras."""
     return random.randint(1, 6)

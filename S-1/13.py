@@ -29,10 +29,10 @@ while True:
             archivo.write(f"Fahrenheit: {fahrenheit:.2f}°F\n")
             archivo.write(f"Kelvin: {kelvin:.2f}K\n")
             archivo.write("="*30 + "\n")
-        print(f"\n✅ Conversión guardada en '{archivo_nombre}'.")
+        print(f"\n Conversión guardada en '{archivo_nombre}'.")
     except ValueError:
         print("Error: Ingresa un número válido.")
     opcion = input("\n¿Quieres convertir otra temperatura? (s/n): ").strip().lower()
     if opcion != "s":
-        print(f"\n👋 Saliendo. Los resultados están guardados en '{archivo_nombre}'. ¡Hasta luego!")
+        print(f"\nSaliendo. Los resultados están guardados en '{archivo_nombre}'. ¡Hasta luego!")
         break

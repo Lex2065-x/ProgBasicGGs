@@ -10,3 +10,9 @@ Celsius: -193.15°C
 Fahrenheit: -315.67°F
 Kelvin: 80.00K
 ==============================
+
+Entrada: 12.0°C
+Celsius: 12.00°C
+Fahrenheit: 53.60°F
+Kelvin: 285.15K
+==============================
