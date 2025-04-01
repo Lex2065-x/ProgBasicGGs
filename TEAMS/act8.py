@@ -8,6 +8,7 @@ def contadorDeVocales(cadena):
     
     return {k: v for k, v in conteo.items() if v > 0}
 
-if __name__ == "__main__":
-    palabra = input("Ingrese la palabra a analizar: ")
-    print(contadorDeVocales(palabra))
+# Pruebas de la función contadorDeVocales
+print(contadorDeVocales("murciélago"))
+print(contadorDeVocales("eucalipto"))
+print(contadorDeVocales("Albericoque"))
